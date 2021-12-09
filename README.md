@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Ellareddy</h1>
 <h3 align="center">High School Freshman | React TS and Firebase Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/listentothefrog" target="blank"><img src="https://img.shields.io/twitter/follow/listentothefrog?logo=twitter&style=for-the-badge" alt="listentothefrog" /></a> </p>
+<p align="left"> <a href="https://twitter.com/la39zz" target="blank"><img src="https://img.shields.io/twitter/follow/la39zz?logo=twitter&style=for-the-badge" alt="listentothefrog" /></a> </p>
 
 - 🔭 I’m currently working on [ReviewurCode](https://github.com/listentothefrog/reviewurcode)
 
