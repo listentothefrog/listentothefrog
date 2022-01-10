@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/la39zz" target="blank"><img src="https://img.shields.io/twitter/follow/la39zz?logo=twitter&style=for-the-badge" alt="listentothefrog" /></a> </p>
 
-- 🔭 I’m currently working on [ReviewurCode](https://github.com/listentothefrog/reviewurcode)
+- 🔭 I’m currently working on [Lobby](https://github.com/listentothefrog/lobby)
 
 - 🌱 I’m currently learning **Next JS**
 
