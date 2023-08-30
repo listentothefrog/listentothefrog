@@ -30,7 +30,7 @@
 
 - ☁️ I've keen interest in video editing and production. So,I'm learning **Video editing with Premiere Pro**
 
-- 💬 Ask me about **web dev,** **ui design,** **firebase,** **photoediting,**
+- 💬 Ask me about **web dev,** **ui design,** **firebase,** **photo editing,**
 
 - 📫 Feel free to reach me out **shashanke7y@gmail.com**
 
