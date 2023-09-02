@@ -24,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[Banquet](https://github.com/listentothefrog/Banquet).**
+- 🔭 I’m currently working on **[JARVIS](https://github.com/listentothefrog/JARVIS).**
 
 - 🌱 I’m currently learning **Python.**
 
